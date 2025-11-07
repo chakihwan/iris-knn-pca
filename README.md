@@ -29,14 +29,14 @@
 
     
     <img width="828" height="847" alt="image" src="https://github.com/user-attachments/assets/43fbb8dc-28d9-4217-b797-d3f14eadc761" />
-    ![<붓꽃 데이터 Pairplot>]
+    *[붓꽃 데이터 Pairplot]
     <img width="783" height="691" alt="image" src="https://github.com/user-attachments/assets/da1e8e51-1d9f-47f7-b88f-a60c855c6482" />
-    ![<Iris 데이터 셋 전체에 대한 히스토그램>]
+    *[Iris 데이터 셋 전체에 대한 히스토그램]
 
-    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/619d9101-23f4-41de-83f7-cd633a2210c7" />
-    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/0579e3d6-65a3-4e2d-b45c-b987e1da463b" />
-    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ca13647-4e70-45dd-a43d-dcaf631dfcf8" />
-    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/4cd3c88d-abf5-4d8c-a2c5-c063399fbdd8" />
+    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/619d9101-23f4-41de-83f7-cd633a2210c7" /><img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/0579e3d6-65a3-4e2d-b45c-b987e1da463b" />
+    
+    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ca13647-4e70-45dd-a43d-dcaf631dfcf8" /><img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/4cd3c88d-abf5-4d8c-a2c5-c063399fbdd8" />
+    
 
 
 3.  **실험 1: 원본 데이터 K-NN 성능 평가**
@@ -55,10 +55,10 @@
     * 각 점은 실제 붓꽃의 품종(target)에 따라 다른 색상으로 구분하여 표시됩니다.
 
     <img width="783" height="534" alt="image" src="https://github.com/user-attachments/assets/1c093f79-1be5-4292-a8e4-b7fd77bffd2c" />
-    ![붓꽃 데이터를 원본 데이터 그대로 사용한 K-NN]
+    *[붓꽃 데이터를 원본 데이터 그대로 사용한 K-NN]
     
     <img width="783" height="534" alt="image" src="https://github.com/user-attachments/assets/61243f52-898f-4106-a3a5-df46ff91bacb" />
-    ![PCA로 적용한 2개의 차원만 사용한 K-NN의 성능]
+    *[PCA로 적용한 2개의 차원만 사용한 K-NN의 성능]
 
 
 ## 4. 파일 구성
