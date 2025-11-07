@@ -32,9 +32,9 @@
     <img width="783" height="691" alt="image" src="https://github.com/user-attachments/assets/da1e8e51-1d9f-47f7-b88f-a60c855c6482" />
     *[Iris 데이터 셋 전체에 대한 히스토그램]
 
-   |<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/619d9101-23f4-41de-83f7-cd633a2210c7" />|<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/0579e3d6-65a3-4e2d-b45c-b987e1da463b" /> |
+   | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/619d9101-23f4-41de-83f7-cd633a2210c7" /> | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/0579e3d6-65a3-4e2d-b45c-b987e1da463b" /> |
    | :---: | :---: | |
-   |<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ca13647-4e70-45dd-a43d-dcaf631dfcf8" />|<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/4cd3c88d-abf5-4d8c-a2c5-c063399fbdd8" />|
+   | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ca13647-4e70-45dd-a43d-dcaf631dfcf8" /> | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/4cd3c88d-abf5-4d8c-a2c5-c063399fbdd8" /> |
     
 
 3.  **실험 1: 원본 데이터 K-NN 성능 평가**
