@@ -33,7 +33,7 @@
     *[Iris 데이터 셋 전체에 대한 히스토그램]
 
    | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/619d9101-23f4-41de-83f7-cd633a2210c7" /> | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/0579e3d6-65a3-4e2d-b45c-b987e1da463b" /> |
-   | :---: | :---: | |
+   | :---: | :---: | 
    | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ca13647-4e70-45dd-a43d-dcaf631dfcf8" /> | <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/4cd3c88d-abf5-4d8c-a2c5-c063399fbdd8" /> |
     
 
@@ -62,7 +62,6 @@
 ## 4. 파일 구성
 
 * `main.py`: 모든 실험과 시각화 코드가 포함된 메인 Python 스크립트입니다.
-* `과제1_머신러닝기초_2401110268_차기환.pdf`: 프로젝트의 요구사항과 분석 내용이 담긴 과제 보고서입니다.
 
 ## 5. 실행 방법
 
