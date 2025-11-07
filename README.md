@@ -26,18 +26,16 @@
 1.  **데이터 로드 및 탐색 (EDA)**
     * `load_iris()` 함수로 붓꽃 데이터를 불러옵니다.
     * `pandas` DataFrame으로 변환 후, `seaborn.pairplot`을 사용하여 4개 특성 간의 관계와 품종별 분포를 시각화합니다.
-
-    
+   
     <img width="828" height="847" alt="image" src="https://github.com/user-attachments/assets/43fbb8dc-28d9-4217-b797-d3f14eadc761" />
     *[붓꽃 데이터 Pairplot]
     <img width="783" height="691" alt="image" src="https://github.com/user-attachments/assets/da1e8e51-1d9f-47f7-b88f-a60c855c6482" />
     *[Iris 데이터 셋 전체에 대한 히스토그램]
 
-    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/619d9101-23f4-41de-83f7-cd633a2210c7" /><img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/0579e3d6-65a3-4e2d-b45c-b987e1da463b" />
+   |<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/619d9101-23f4-41de-83f7-cd633a2210c7" />|<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/0579e3d6-65a3-4e2d-b45c-b987e1da463b" /> |
+   | :---: | :---: | |
+   |<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ca13647-4e70-45dd-a43d-dcaf631dfcf8" />|<img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/4cd3c88d-abf5-4d8c-a2c5-c063399fbdd8" />|
     
-    <img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/7ca13647-4e70-45dd-a43d-dcaf631dfcf8" /><img width="470" height="378" alt="image" src="https://github.com/user-attachments/assets/4cd3c88d-abf5-4d8c-a2c5-c063399fbdd8" />
-    
-
 
 3.  **실험 1: 원본 데이터 K-NN 성능 평가**
     * 원본 데이터를 훈련(70%) 및 테스트(30%) 세트로 분리합니다 (`test_size=0.3`, `random_state=42`).
